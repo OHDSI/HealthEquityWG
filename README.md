@@ -11,14 +11,14 @@
  - 10 instances of presentations of our work 
  - 10 uses of OHDSI results by internal or external stakeholders that demonstrate influence in policy or clinical decision-making 
 
-### Patient-Level SDoH 
- - Identify 5 priority use cases for patient-level SDoH, providing recommendations for storing, collecting, and mapping the relevant common data elements 
- - Provide a recommendation (to data collectors like health systems) for screening tools useful for HE research 
+### Standards for studying patient-level Social Determinants of health, Risk factors, and Needs (SDRN) [[1]](https://www.healthaffairs.org/do/10.1377/hblog20191025.776011/full/)
+ - Identify 5 priority use cases for patient-level SDRN, providing recommendations for storing, collecting, and mapping the relevant common data elements 
+ - Provide a recommendation (to data collectors like health systems) for screening tools useful for Health Equity research 
  - Identify standard concepts for the data collected in recommended and commonly used screening tools 
- - Engage with NLP team to release tools/methods for extracting SDoH from notes
+ - Engage with NLP team to release tools/methods for extracting SDRN from notes
  - Validate NLP tool for extracting SDoH in the context of a study 
 
-### Community-Level SDoH 
+### Standards for studying community-level SDRN
  - Identify 3 external datasets useful for incorporation in health equity studies 
  - Identify a priority use case for linking place-based SDoH datasets to OMOP data 
  - Identify a priority use case for rolling up patient-level OMOP data to describe spatial-population-level properties 
@@ -27,7 +27,7 @@
 ### Extend OHDSI tools to make a health equity perspective the default and/or an option 
  - Augment Patient Level Prediction (PLP) to expose the differences of predictions, predictive power, and other fairness metrics of the predictive models it creates. 
  - Release tools to assess data quality / gaps for SDoH 
- - Framework for best practices in health equity across study design  
+ - Develop a framework for best practices in health equity across study design  
 
 ### Engage the broader community on issues related to health equity 
  - Release directories of accessible educational resources and research relevant to health equity 
