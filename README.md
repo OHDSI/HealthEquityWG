@@ -54,7 +54,7 @@ For those that are text-based learners, this paper by Dunkelau and Leuschel in 2
 
 ## Various books that discuss the implications of algorithms trained on big data:
  - [Race After Technology](https://www.ruhabenjamin.com/race-after-technology), by Ruha Benjamin [Professor of African American studies at Princeton University], summarizes how technology [from data collection, data imputation, government policy, etc] can play a role in different outcomes in society. 
-Weapons of Math Destruction, by Cathy O’Neil [mathematician, data scientist, author] discusses the implications of algorithms and how big data can reinforce pre-existing inequities.
+ - Weapons of Math Destruction, by Cathy O’Neil [mathematician, data scientist, author] discusses the implications of algorithms and how big data can reinforce pre-existing inequities.
 
 ## Questions? Comments? Additional materials?
 Reach out to the OHDSI Health Equity Working Group. You can join the listserv and Teams environment by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=lAAPoyCRq0q6TOVQkCOy1ZyG6Ud_r2tKuS0HcGnqiQZUOVJFUzBFWE1aSVlLN0ozR01MUVQ4T0RGNyQlQCN0PWcu).
