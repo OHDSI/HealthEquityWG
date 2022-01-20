@@ -11,12 +11,14 @@
  - 10 instances of presentations of our work 
  - 10 uses of OHDSI results by internal or external stakeholders that demonstrate influence in policy or clinical decision-making 
 
-### Standards for studying patient-level Social Determinants of health, Risk factors, and Needs (SDRN) [[1]](https://www.healthaffairs.org/do/10.1377/hblog20191025.776011/full/)
- - Identify 5 priority use cases for patient-level SDRN, providing recommendations for storing, collecting, and mapping the relevant common data elements 
- - Provide a recommendation (to data collectors like health systems) for screening tools useful for Health Equity research 
- - Identify standard concepts for the data collected in recommended and commonly used screening tools 
+### Operationalize patient-level Social Determinants of health, Risk factors, and Needs (SDRN) data in OHDSI network studies [[1]](https://www.healthaffairs.org/do/10.1377/hblog20191025.776011/full/)
+ - Identify OHDSI sites that are collecting SDRN and gather a report of what exists in those source systems. Publish a catalog.
+ - Identify 5 priority use cases for patient-level SDRN
+ - Ensure OMOP vocabulary and CDM supports storing, collecting, and mapping the relevant common data elements. 
+ - Provide a recommendation (to data collectors like health systems) for screening tools useful for Health Equity research
+ - Identify standard concepts for the data collected in recommended and commonly used screening tools
  - Engage with NLP team to release tools/methods for extracting SDRN from notes
- - Validate NLP tool for extracting SDoH in the context of a study 
+ - Validate NLP tool for extracting SDoH in the context of a study
 
 ### Standards for studying community-level SDRN
  - Identify 3 external datasets useful for incorporation in health equity studies 
